@@ -1,0 +1,26 @@
+{
+  "name": "@achmadeko003/exports-js",
+  "version": "1.0.0",
+  "description": "export function",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AchmadEko003/ExportJS.git"
+  },
+  "keywords": [
+    "export"
+  ],
+  "author": "achmadeko003",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AchmadEko003/ExportJS/issues"
+  },
+  "homepage": "https://github.com/AchmadEko003/ExportJS#readme"
+}
